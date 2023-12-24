@@ -1,18 +1,17 @@
-# personal-projects
-this is just a repository for personal projects
+# About me
+Hey there I am a student recently started learning how git and github works. 
 
-## Skills
+
+## Technical Skills
 * Linux
 * Git & Github
+
+## Programming Languages
 * C/C++
 * python
 * JAVA
 * HTML,CSS
 
 
-
-## platforms
-
+## Softwares
 * VS Code
-
-* Github
